@@ -2,7 +2,7 @@
 
 | 项目 | 简介 | 详情 | 备注 |
 |------|------|------|------|
-| [**qBittorrent-Enhanced-Edition**](https://github.com/c0re100/qBittorrent-Enhanced-Edition) | 非官方增强版 BitTorrent 客户端，功能更强大 | 支持多 Trackers、增强种子管理，适合重度下载用户 |  |
+| [**qBittorrent-Enhanced-Edition**](https://github.com/c0re100/qBittorrent-Enhanced-Edition) | 非官方增强版 BitTorrent 客户端，功能更强大 | 支持多 Trackers、增强种子管理，适合重度下载用户 | 默认trackers:https://cf.trackerslist.com/all.txt、https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt |
 | [**cat-catch**](https://github.com/xifangczy/cat-catch) | 浏览器资源嗅探插件，支持嗅探视频、音频资源 | 可辅助下载网页中的音视频文件，支持多浏览器扩展 |  |
 | [**dolby_beta**](https://github.com/nining377/dolby_beta) | UnblockMusic + 杜比大喇叭合体增强版 | 音乐解锁神器，支持网易云、QQ 音乐，功能全面 |  |
 | [**subs-check**](https://github.com/beck-8/subs-check) | 订阅转换合并 + 节点测速 + Clash 导出 | Clash 用户必备，支持多种订阅格式转换与测速 |  |
