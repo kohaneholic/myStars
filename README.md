@@ -13,3 +13,4 @@
 | [**pixez-flutter**](https://github.com/Notsfsssf/pixez-flutter) | Flutter 编写的 Pixiv 客户端，免代理直连 | 支持动图查看，免代理，适配广泛，用户体验优异 |  |
 | [**freevpn**](https://github.com/asdsadsddas123/freevpn) | 免费 VPN 节点集合、翻墙工具大全 | 提供免费翻墙节点，支持多协议，适合科学上网新手 |  |
 | [**bitwarden**](https://github.com/bitwarden/desktop) | 密码管理 | 开源、跨平台的密码管理器，支持多设备同步，帮助用户安全地存储和管理密码 |  |
+| [**animeko**](https://github.com/open-ani/animeko) | 追番平台 | 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。 |  |
